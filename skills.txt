@@ -1,0 +1,13 @@
+ Bug trackers: JIRA, Mantis
+ Test trackers: TestLink
+ SQL: DML, DDL
+ Protocols: HTTP, HTTPS
+ API: REST, SOAP
+ Devtools: Chrome
+ GIT: GITHUB, GITBASH
+ Test documentations: Test Plan,Test case, Test Suite, Check list
+ Tools: SNAGIT, Lightshorts, Bandicam
+ Soft: Visual Studio code
+ Soft_API: Postman
+ Basics: JSON, JavaScript
+
