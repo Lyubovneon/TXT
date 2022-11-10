@@ -1,0 +1,6 @@
+Person first name: Lyubov
+Person last name: Nekroyenko
+Age: 30
+Pets: 2
+Salary: 3000
+
