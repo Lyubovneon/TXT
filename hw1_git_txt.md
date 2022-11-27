@@ -3,23 +3,29 @@
 ***
 ### *1. Создать внешний репозиторий c названием TXT.*
 - **github.com --> section Repositories --> click on the NEW button --> write TXT in the Repository name field --> mark as Public --> click on the Create repository button**
+
 *** 
 ### * 2. Клонировать репозиторий TXT на локальный компьютер.*
 - **git clone** git@github.com:Lyubovneon/TXT.git
+
 ***
 ### * 3. Внутри локального TXT создать файл “new.txt”.*
 - **cd TXT**
 - **touch new.txt**
 - **ls -la**  -  to see TXT content 
+
 ***
 ### *4. Добавить файл под гит.*
 - **add new.txt**
+
 ***
 ### *5. Закоммитить файл.*
 - **git commit -m** "add new.txt"
+
 ***
 ### *6. Отправить файл на внешний GitHub репозиторий.*
 - **git push**
+
 ***
 ### *7. Отредактировать содержание файла “new.txt” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT.*
 - **vim new.txt**
@@ -38,15 +44,18 @@ Salary: 3000
 - **Esc:wq**
 
 - **cat new.txt**  - to see the new.txt content in gitbash
+
 ***
 ### *8. Отправить изменения на внешний репозиторий.*
 - **git add .**
 - **git commit -m** "modify new.txt"
 - **git push**
+
 ***
 ### *9. Создать файл preferences.txt*
 - **touch preferences.txt**
 - **ls -la**  -  to see TXT content 
+
 ***
 ### *10. В файл preferences.txt добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.*
 - **vim preferences.txt**
@@ -58,7 +67,10 @@ Food: Apples
 Season: Spring
 Country: USA
 
+- **Esc:wq**
+
 - **cat preferences.txt**  - to see the preferences.txt content in gitbash
+
 ***
 ### *11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT*
 - **touch skills.txt**
