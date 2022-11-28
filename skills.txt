@@ -1,13 +1,22 @@
- Bug trackers: JIRA, Mantis
- Test trackers: TestLink
- SQL: DML, DDL
- Protocols: HTTP, HTTPS
- API: REST, SOAP
- Devtools: Chrome
- GIT: GITHUB, GITBASH
- Test documentations: Test Plan,Test case, Test Suite, Check list
- Tools: SNAGIT, Lightshorts, Bandicam
- Soft: Visual Studio code
- Soft_API: Postman
- Basics: JSON, JavaScript
+1. Bug Tracker JIRA, Mantis
+2. Test Tracker TestLink 
+3. Test documentations Test Plan, Test case, Test Suite, Check list, Bug report        
+4. Testing Methods, Types of Testing, Software Test Design Techniques, SDLS(System Development Life Cycle), STLC	
+5. Agile methodology SCRUM, KANBAN	
+6. Client-Server Architecture Basics	
+7. SQL DML, DDL	
+8. HTTP methods	
+9. Response STATUS codes	
+10. API REST, SOAP	
+11. POSTMAN	
+12. Devtools Chrome	
+13. GITHUB, GITBASH	
+14. JSON, XML basic, structure 	
+15. Google Sheets	
+16. Visual Studio code basics	
+17. Mobile testing	
+18. SNAGIT, Lightshot, Bandicam	
+19. html, css, JavaScript basics	
+20. Taking, uploading and reading Logs 
+	
 
