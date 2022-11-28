@@ -62,9 +62,13 @@ Salary: 3000
 - **insert**
 
 Movie: The Bodyguard
+
 Serial: My Software Testing Manual Journey
+
 Food: Apples
+
 Season: Spring
+
 Country: USA
 
 - **Esc:wq**
